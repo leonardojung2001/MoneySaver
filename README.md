@@ -1,11 +1,22 @@
 <h1 align="center">
+<<<<<<< HEAD
+App - Pocket Coin :bar_chart:
+=======
 App - MoneySaver :bar_chart:
+>>>>>>> origin/master
 </h1>
 
 <p align="center">
 suas finanças na pauma da sua mão.
 </p>
 
+<<<<<<< HEAD
+<p align="center">
+<a href="https://github.com/PedroHenriqueDevBR/"><img alt="GitHub forks" src="https://img.shields.io/badge/make%20by-PedroHenriqueDevBR-blue?style=plastic"></a>
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrohenriquedevbr/app-pocket-coin?style=social">
+</p>
+=======
+>>>>>>> origin/master
 
 <hr>
 
@@ -14,6 +25,18 @@ suas finanças na pauma da sua mão.
   
 # :anchor: Descrição geral
 
+<<<<<<< HEAD
+Aplicativo desenvolvido como proposta de projeto de conclusão de disciplina, programação orientada a objetos, disponibilizada no Instituto Federal do Piauí, ministrada pelo professor Rogério Silva.
+
+## Descrição do aplicativo
+Pocket Coin é um aplicativo android que destina-se a auxiliar pessoas no controle de gastos. Desenvolvido utilizando como ambiente de desenvolvimento a IDEA Android Studio, Java como linguagem de programação. Entre as principais funcionalidades que o aplicativo disponibiliza, o registro dos gastos separados por mês é a principal a ser destacada, a listagem dos dados do mês atual (incluindo todas as movimentações) é a principal forma de entender e perceber o quanto de dinheiro foi gasto no mês e onde o dinheiro foi gasto, a listagem dos dados acontece por meio de gráficos e mensagens.
+Caso seja de interesse do usuário, os dados das movimentações de meses anteriores também ficam registrados no banco de dados, sendo assim basta que o usuário acesse a tela de registros para selecionar o mês para a listagem dos dados.
+
+Para que o Pocket Coin funcione de forma estável é preciso que a versão minima do android seja a 22 (Android 5.1).
+
+### Logo do aplicativo - Pocket Coin 
+<img src="https://raw.githubusercontent.com/PedroHenriqueDevBR/App-Pocket-Coin/master/app/src/main/res/mipmap-xxhdpi/ic_logo_aux.png" width="100" height="100" title="Teste" />
+=======
 Aplicativo desenvolvido como proposta de projeto de conclusão de curso, analise e desenvolvimento de sistemas, disponibilizada no Cesusc, ministrada pelo professor Ibsen.
 
 ## Descrição do aplicativo
@@ -21,6 +44,7 @@ MoneySaver é um aplicativo android que destina-se a auxiliar pessoas no control
 Caso seja de interesse do usuário, os dados das movimentações de meses anteriores também ficam registrados no banco de dados, sendo assim basta que o usuário acesse a tela de registros para selecionar o mês para a listagem dos dados.
 
 Para que o MoneySaver funcione de forma estável é preciso que a versão minima do android seja a 22 (Android 5.1).
+>>>>>>> origin/master
 
 # Repositórios utilizados
 
@@ -63,7 +87,11 @@ O aplicativo possui 10 (dez) atividades, que por sua vez serve para conectar o u
 ### Login
 Serve para que o usuário cadastrado entre no painel de controle particular.
 
+<<<<<<< HEAD
+<img src="https://user-images.githubusercontent.com/36716898/52526178-e24ca800-2c93-11e9-8e58-455ff17a5aa7.png" width="255" height="453" />
+=======
 <img src="https://github.com/leonardojung2001/MoneySaver/blob/main/copia_money.png" width="255" height="453" />
+>>>>>>> origin/master
 
 
 ### Cadastrar Usuário
