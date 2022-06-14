@@ -63,7 +63,7 @@ O aplicativo possui 10 (dez) atividades, que por sua vez serve para conectar o u
 ### Login
 Serve para que o usuário cadastrado entre no painel de controle particular.
 
-<img src="https://github.com/leonardojung2001/MoneySaver/blob/main/copia_money.png" width="255" height="453" />
+<img src="https://github.com/leonardojung2001/MoneySaver/blob/master/copia_money.png" width="255" height="453" />
 
 
 ### Cadastrar Usuário
